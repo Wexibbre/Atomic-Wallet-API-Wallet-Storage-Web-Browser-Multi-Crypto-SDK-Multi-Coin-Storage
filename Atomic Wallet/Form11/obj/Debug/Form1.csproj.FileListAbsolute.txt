@@ -1,0 +1,2 @@
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
